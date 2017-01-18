@@ -1,0 +1,28 @@
+{
+  "name": "expediente-api",
+  "version": "1.0.0",
+  "description": "Api rest expediente medico cerene",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/targemor/Expediente-api.git"
+  },
+  "keywords": [
+    "Api",
+    "REST"
+  ],
+  "author": "Vicente Borja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/targemor/Expediente-api/issues"
+  },
+  "homepage": "https://github.com/targemor/Expediente-api#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mongoose": "^4.7.7"
+  }
+}
